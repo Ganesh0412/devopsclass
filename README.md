@@ -21,4 +21,4 @@ Linux Sessions:<br>
 Aug 3rd evening PST recording - linux. https://transcripts.gotomeeting.com/#/s/164d3fee0ef9d7a3d2bfe765ff19fea4bd880800813330e631fc4c9a0d3578db<br>
 Aug 6th Evening - linux. https://transcripts.gotomeeting.com/#/s/c9cfd143ad6c1b6ea0acbd03d191556ec5212d6b6d34cdfcd724545cb040f6b9<br>
 
-Aug8th Evening - Jenkins. https://transcripts.gotomeeting.com/#/s/746625c8e2853ef890a3bada4cf1e67aec2977b46c73d170183d01c346389226
+Aug11th Evening - Jenkins. https://transcripts.gotomeeting.com/#/s/746625c8e2853ef890a3bada4cf1e67aec2977b46c73d170183d01c346389226
