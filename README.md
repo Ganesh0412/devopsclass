@@ -22,4 +22,6 @@ Aug 3rd evening PST recording - linux. https://transcripts.gotomeeting.com/#/s/1
 Aug 6th Evening - linux. https://transcripts.gotomeeting.com/#/s/c9cfd143ad6c1b6ea0acbd03d191556ec5212d6b6d34cdfcd724545cb040f6b9<br>
 
 Aug11th Evening - Jenkins. https://transcripts.gotomeeting.com/#/s/746625c8e2853ef890a3bada4cf1e67aec2977b46c73d170183d01c346389226<br>
-Aug12th Evening - Jenkins. https://transcripts.gotomeeting.com/#/s/a281a9283dcfe498fe7220760d7295c69a53bd27dad2faf20fa00d61abb7b242
+Aug12th Evening - Jenkins. https://transcripts.gotomeeting.com/#/s/a281a9283dcfe498fe7220760d7295c69a53bd27dad2faf20fa00d61abb7b242<br>
+Aug 16th Morning - Jenkins intro. https://transcripts.gotomeeting.com/#/s/425ecd2ae089eb46185b8fd342ee60264aa98282d803e71f93aacdd7d92834e7<br><br>
+Aug 16th Evening - sonarqube. https://transcripts.gotomeeting.com/#/s/35c0998606a74add85ef966268a72c56c885358ec2ae182a057446c2015cf6c2<br>
