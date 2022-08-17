@@ -1,0 +1,33 @@
+Sonarqube installation:
+	1. Install a database - psql [ postgres ] [ X->Oracle, mssql, mysql, mariadb, casandra, ... ]
+	2. configure the networks
+	3. Start the database
+	4. Install the java
+	5. connect with the database
+	6. Install the sonarqube binary
+	7. Configure the networks
+	8. Create the daemon process and start the sonarqube service
+
+NOTES:
+
+postgresql installation link: https://techviewleo.com/install-postgresql-13-rocky-linux-almalinux/
+
+
+yum [ yum is a package manager. [ yum install jenkins ] ]
+dnf [ Dandified yaml ]
+127.0.0.1 - localhost - your linux machine ip address
+127.0.0.1 or 52.141.28.49 or 0.0.0.0 are same
+
+127.0.0.1 to 127.0.0.32 
+
+Change:
+	For sudo vim /var/lib/pgsql/13/data/postgresql.conf command
+	uncomment listen_addresses 
+
+	For sudo vim /var/lib/pgsql/13/data/pg_hba.conf command
+	update peer to trust 
+	&
+	update scram-sha-256 to md5
+
+sonarqube installation link: 	https://computingforgeeks.com/install-sonarqube-on-rocky-linux-centos/#:~:text=Install%20SonarQube%20on%20CentOS%208%20%2F%20Rocky%20Linux,Configure%20SonarQube%20on%20Rocky%20Linux%208.%20More%20items
+
