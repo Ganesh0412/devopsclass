@@ -31,3 +31,34 @@ Change:
 
 sonarqube installation link: 	https://computingforgeeks.com/install-sonarqube-on-rocky-linux-centos/#:~:text=Install%20SonarQube%20on%20CentOS%208%20%2F%20Rocky%20Linux,Configure%20SonarQube%20on%20Rocky%20Linux%208.%20More%20items
 
+postgresql logs: /var/lib/pgsql/13/data/log
+
+sonar logs: /opt/sonarqube/logs
+
+
+admin/admin
+
+GITHUB
+JENKINS
+MAVEN
+ARTIFACTORY
+SONARQUBE - STATIC TESTING TOOL
+
+
+localhost / 127.0.0.1 / 0.0.0.0 / Local ip_address -> all are same for the linux machine 
+
+secret text -> token
+
+STEP 1: Install sonar plugin
+STEP 2: Configure systems 
+STEP 3: Global tool configurations
+
+To select the java version run the command: alternatives --config java
+
+stages:
+	stage ( clean -> folder ) 
+	stage ( git clone )
+	stage ( sonarqube -> code quality testing )
+	stage ( build )
+	stage ( create package )
+	stage ( push )
