@@ -27,4 +27,5 @@ Aug 16th Morning - Jenkins intro. https://transcripts.gotomeeting.com/#/s/425ecd
 Aug 16th Evening - sonarqube. https://transcripts.gotomeeting.com/#/s/35c0998606a74add85ef966268a72c56c885358ec2ae182a057446c2015cf6c2<br>
 Aug 17th Morning PST - Jenkins. https://transcripts.gotomeeting.com/#/s/5fc1a46677f496b0b3a2e2660f0d87a7994ce1999875f62873a8c55fb9fcc185<br>
 Aug 22nd Morning PST - Sonarqube. https://transcripts.gotomeeting.com/#/s/c3bd068205c48b515122fe44b81559cc82f747ad59afdaa8e911d5299f9fc515<br>
+Aug 23rd Evening PST - Jenkins. https://transcripts.gotomeeting.com/#/s/bd33d8d745fe9a1da040bb8a49d21fb5539d2e55dcfae4685891f9073d5db592 <br>
 Aug 23rd Morning PST - Sonarqube. https://transcripts.gotomeeting.com/#/s/46d9e46ac710dc3cd2903f7473c427d6d91b7dc4280a8fca1350f097dd907eb9
