@@ -62,3 +62,33 @@ stages:
 	stage ( build )
 	stage ( create package )
 	stage ( push )
+
+
+mvn clean install sonar:sonar ->clean install sonar:sonar 
+
+git clone git@github.com:Ganesh0412/mavenshine.git
+<<< enter the password
+<<< git checkout artifactory 
+
+alternatives --config java -> so that it get pointed to java version 11 
+	[ this is required for the maven project to run  which is taken example ]
+
+What is a Bug?
+	password should not be hardcoded
+		db connection: username : albert
+		db connection: password : albert@123
+
+	DB open connection [ 10000 ]
+		more threads 
+		db itself to get down
+
+Unit testing & unit coverage
+integration testing
+regression testing
+
+
+DEPRECATED
+
+SONARQUBE -> WHAT IS YOUR PROGRAMMING LANGUAGE -> QUALITY PROFILE -> RULES -> APPLY IT TO CODE
+
+DOCKER
