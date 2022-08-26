@@ -30,5 +30,5 @@ Aug 22nd Morning PST - Sonarqube. https://transcripts.gotomeeting.com/#/s/c3bd06
 Aug 23rd Evening PST - Jenkins. https://transcripts.gotomeeting.com/#/s/bd33d8d745fe9a1da040bb8a49d21fb5539d2e55dcfae4685891f9073d5db592 <br>
 Aug 23rd Morning PST - Sonarqube. https://transcripts.gotomeeting.com/#/s/46d9e46ac710dc3cd2903f7473c427d6d91b7dc4280a8fca1350f097dd907eb9 <br>
 Aug 24th Morning PST - Docker. https://transcripts.gotomeeting.com/#/s/b1327924ae067af311897d8964e71aac44d436c0070e36add0df8e65c93878e6<br>
-Aug 26th Evening PST - Echezona - sonarqube. https://transcripts.gotomeeting.com/#/s/29112cb68a4e06f4b90128fd756981c3c61bad1239586dc2e76cf5c07ff36008
-
+Aug 26th Evening PST - Echezona - sonarqube. https://transcripts.gotomeeting.com/#/s/29112cb68a4e06f4b90128fd756981c3c61bad1239586dc2e76cf5c07ff36008<br>
+Aug 26th Morning PST - Albert and Ram - Docker. https://transcripts.gotomeeting.com/#/s/4702c47890151c29659fc1c5278d3a47be641af4b5649703ee403bbba5206496
