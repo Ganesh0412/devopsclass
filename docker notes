@@ -1,0 +1,8 @@
+docker pull
+docker images
+docker ps
+docker ps -a
+docker stop <container-id/container-name>
+docker rm <container-id/container-name>
+docker rmi <image-name>
+docker logs <container-id>
