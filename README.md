@@ -15,10 +15,10 @@ Aug 1st morning PST recording - jenkins. https://transcripts.gotomeeting.com/#/s
 Aug 2nd morning PST recording - jenkins. https://transcripts.gotomeeting.com/#/s/b29a8627b82ffd2f9e0d043d034ef7e59b8719ffba8205fed0c3d68c1e4573c4<br>
 Aug 3rd morning PST recording - jenkins https://transcripts.gotomeeting.com/#/s/31f05e8a9b01d73ea135abfaaf3177ded6b89ba604fb4f4a059ab5e8f30bc687<br>
 Aug 5th  morning PST recording - jenkins. https://transcripts.gotomeeting.com/#/s/269710d9b99640adaa44144ebe51ec8f2235978027633f13e7778e9d1229071f<br>
-Aug 8th morning PST recording - jenkins. https://transcripts.gotomeeting.com/#/s/62f32943642bf13dd28674adfc7f99448a5b97284c3d6a3e5094c0836f4bfc33<br><br>
+Aug 8th morning PST recording - jenkins. https://transcripts.gotomeeting.com/#/s/62f32943642bf13dd28674adfc7f99448a5b97284c3d6a3e5094c0836f4bfc33<br>
 Aug11th Evening - Jenkins. https://transcripts.gotomeeting.com/#/s/746625c8e2853ef890a3bada4cf1e67aec2977b46c73d170183d01c346389226<br>
 Aug12th Evening - Jenkins. https://transcripts.gotomeeting.com/#/s/a281a9283dcfe498fe7220760d7295c69a53bd27dad2faf20fa00d61abb7b242<br>
-Aug 16th Morning - Jenkins intro. https://transcripts.gotomeeting.com/#/s/425ecd2ae089eb46185b8fd342ee60264aa98282d803e71f93aacdd7d92834e7<br><br>
+Aug 16th Morning - Jenkins intro. https://transcripts.gotomeeting.com/#/s/425ecd2ae089eb46185b8fd342ee60264aa98282d803e71f93aacdd7d92834e7<br>
 Aug 17th Morning PST - Jenkins. https://transcripts.gotomeeting.com/#/s/5fc1a46677f496b0b3a2e2660f0d87a7994ce1999875f62873a8c55fb9fcc185<br>
 Aug 23rd Evening PST - Jenkins. https://transcripts.gotomeeting.com/#/s/bd33d8d745fe9a1da040bb8a49d21fb5539d2e55dcfae4685891f9073d5db592 <br>
 
