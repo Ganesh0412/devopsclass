@@ -8,7 +8,7 @@ July 22nd: https://app.goto.com/meetings/history/sessions/5141942418162421541<br
 July 23rd: https://app.goto.com/meetings/history/sessions/2474279819083622437<br>
 July 26th : https://app.goto.com/meetings/history/sessions/8411597529174844725<br><br>
 
-<font color="red"><b>Jenkins Session</b></font><br>
+<font color="blue"><b>Jenkins Session</b></font><br>
 July 28th morning PST recording - jenkins.  https://transcripts.gotomeeting.com/#/s/56e0e2b3196b4d38ead4218f188a9ee650f7fb0c2a65b07ca5a07e9b076c6706<br>
 July 29th morning PST recording - jenkins. https://transcripts.gotomeeting.com/#/s/22b118e330b4c1695a575a03792b11092c70456840ac83fd7915b1e6f57fb753<br>
 Aug 1st morning PST recording - jenkins. https://transcripts.gotomeeting.com/#/s/6fd2eefa0fc1145c0877dc6819b676a6cc4ae58823c96c565a9f489b47c05d04<br>
