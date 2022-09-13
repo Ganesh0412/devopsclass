@@ -42,3 +42,8 @@ https://transcripts.gotomeeting.com/#/s/fc26c772191f8641f1b5ec7267b9b2e6f56abd5d
 
 ### <b>Nagios Sessions:</b><br>
 Sept 5th Morning PST - Albert and Ram - Nagios Intro and installation. https://transcripts.gotomeeting.com/#/s/4798ffed3813325a629edc6b912529c76353d21d50fb80db8eb193498bab9efd  <br>
+
+### <b>Ansible Sessions:</b><br>
+Sept 12th Morning PST - Albert -  Ansible Intro
+Sept 13th Morning PST - Albert -  Ansible installation and commands
+
