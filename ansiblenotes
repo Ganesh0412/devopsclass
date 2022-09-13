@@ -1,0 +1,42 @@
+1. yum install nginx -> Install the product
+2. service nginx start -> Start the product
+3. service nginx status -> This is used only to check if the product is running or not
+4. service nginx stop -> Stop the product
+5. yum remove nginx -> Remove the product
+
+
+cat /etc/ansible/hosts
+[all:vars]
+ansible_connection=ssh
+ansible_user=ganesh
+ansible_ssh_pass=ganeshganesh@123
+
+[albert]
+alias ansible_ssh_host=20.197.40.213
+20.197.40.219
+20.197.40.220
+20.197.40.221
+
+[ram]
+20.197.40.214
+20.197.40.21
+
+[ganesh]
+20.197.40.215
+
+LINE 1 REPLACEMENT: ansible albert -b -m yum -a "name=nginx state=latest"
+LINE 2 REPLACEMENT: ansible albert -b -m service -a "name=nginx state=restarted"
+LINE 5 REPLACEMENT: ansible albert -b -m yum -a "name=nginx state=absent"
+
+
+LINE 1 REPLACEMENT: ansible albert -b -m yum -a "name=httpd state=latest"
+LINE 2 REPLACEMENT: ansible albert -b -m service -a "name=httpd state=restarted"
+LINE 5 REPLACEMENT: ansible albert -b -m yum -a "name=httpd state=absent"
+
+
+ping
+setup
+copy
+yum
+service
+Ref link: https://docs.ansible.com/ansible/2.7/modules/list_of_files_modules.html
