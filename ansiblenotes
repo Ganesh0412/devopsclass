@@ -40,3 +40,5 @@ copy
 yum
 service
 Ref link: https://docs.ansible.com/ansible/2.7/modules/list_of_files_modules.html
+
+playbook reference link: https://github.com/do-community/ansible-practice
