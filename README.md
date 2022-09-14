@@ -45,5 +45,6 @@ Sept 5th Morning PST - Albert and Ram - Nagios Intro and installation. https://t
 
 ### <b>Ansible Sessions:</b><br>
 Sept 12th Morning PST - Albert -  Ansible Intro - https://transcripts.gotomeeting.com/#/s/7f04f095788a98f81644e23a7d0cd9f323d6500199dae2611cd10379bb6a9fed <br>
-Sept 13th Morning PST - Albert -  Ansible installation and commands 
+Sept 13th Morning PST - Albert -  Ansible installation and commands - https://transcripts.gotomeeting.com/#/s/2aa1bcedc301020c9eff85a9273b6156d10f9f7893ccef73dae83e743876cc30 <br>
+Sept 14th Morning PST - Albert - Ansible playbook - 
 
