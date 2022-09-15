@@ -38,7 +38,8 @@ Aug 30th Evening PST - Echezona - sonarqube. Download manually from the transcri
 Aug 24th Morning PST - Docker. https://transcripts.gotomeeting.com/#/s/b1327924ae067af311897d8964e71aac44d436c0070e36add0df8e65c93878e6<br>
 Aug 26th Morning PST - Albert and Ram - Docker. https://transcripts.gotomeeting.com/#/s/4702c47890151c29659fc1c5278d3a47be641af4b5649703ee403bbba5206496 <br>
 Sept 8th Evening PST. Echezona  - Docker
-https://transcripts.gotomeeting.com/#/s/fc26c772191f8641f1b5ec7267b9b2e6f56abd5d5efe208e0317121e2d579926<br><br>
+https://transcripts.gotomeeting.com/#/s/fc26c772191f8641f1b5ec7267b9b2e6f56abd5d5efe208e0317121e2d579926<br>
+Sept 15th Morning PST. Echezona  - Docker commands<br><br>
 
 ### <b>Nagios Sessions:</b><br>
 Sept 5th Morning PST - Albert and Ram - Nagios Intro and installation. https://transcripts.gotomeeting.com/#/s/4798ffed3813325a629edc6b912529c76353d21d50fb80db8eb193498bab9efd  <br>
