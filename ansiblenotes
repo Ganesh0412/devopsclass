@@ -42,3 +42,19 @@ service
 Ref link: https://docs.ansible.com/ansible/2.7/modules/list_of_files_modules.html
 
 playbook reference link: https://github.com/do-community/ansible-practice
+
+jenkins
+maven
+git integration
+artifactory -> 
+
+Ansible
+1. Install the plugin
+2. Configure system -> Set the path -> Save
+
+
+
+
+/etc/ansible/hosts -> dev.ini
+
+yum install -> root user [ Admin ]
