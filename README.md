@@ -43,6 +43,8 @@ Sept 15th Morning PST. Echezona  - Docker commands<br><br>
 
 ### <b>Nagios Sessions:</b><br>
 Sept 5th Morning PST - Albert and Ram - Nagios Intro and installation. https://transcripts.gotomeeting.com/#/s/4798ffed3813325a629edc6b912529c76353d21d50fb80db8eb193498bab9efd  <br>
+Sept 21st Evening PST - Echezona - Nagios Intro
+https://transcripts.gotomeeting.com/#/s/df1e1c3a02836310f9423e008ebd8c1c42886216b248eb6d962e6b11e197d9e2 <br>
 
 ### <b>Ansible Sessions:</b><br>
 Sept 12th Morning PST - Albert -  Ansible Intro - https://transcripts.gotomeeting.com/#/s/7f04f095788a98f81644e23a7d0cd9f323d6500199dae2611cd10379bb6a9fed <br>
